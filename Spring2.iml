@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Ioc" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring-ioc.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-injection.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-beanscope.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-lifecycle.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-aware.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-autowiring.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-resource.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-beanannotation.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-aop-schema-advice.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-aop-schema-advisors.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-aop-api.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-aop-aspectj.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>
